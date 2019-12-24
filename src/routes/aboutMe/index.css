@@ -1,0 +1,28 @@
+.AboutMeWrapper{
+   padding: 20px 30px;
+   font-family: "FangSong_GB2312";
+   width: 50%;
+   margin:0 auto;
+}
+@media screen and (max-width: 430px) {
+  .AboutMeWrapper{
+   padding: 8px 10px;
+   width: 100%;
+}
+}
+.AboutMeTitle{
+	font-size: 30px;
+	display: block;
+	text-align: center;
+}
+.MePhoto{
+	width: 100%;
+	height: 300px;
+}
+.AboutMe{
+	padding: 20px 0;
+	font-size: 20px;
+}
+.AboutMeWrapper li{
+	padding: 20px 0;
+}

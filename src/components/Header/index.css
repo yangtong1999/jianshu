@@ -1,0 +1,20 @@
+.HeaderWrapper{
+	box-shadow: 2px 2px 8px #dcdcdc;
+	font-family: "FangSong_GB2312";
+}
+.HeaderImg{
+	width:70px;
+	height: 45px;
+	padding: 3px 3px ;
+}
+.HeaderImgDiv{
+	display: flex;
+	flex-direction: row;
+}
+.HeaderText{
+	line-height: 45px;
+	color: #ccc;
+	padding: 0 10px;
+	font-size: 120%;
+	width: 130px;
+}

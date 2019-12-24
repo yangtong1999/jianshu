@@ -1,0 +1,18 @@
+.ContentWrapper{
+	width: 100%;
+	height: 600px;
+	background-color: white;
+	margin-top: 8px;
+	height: auto;
+}
+.ContentLeft{
+   width:100%;
+   background-color: white;
+   height: auto;
+}
+@media screen and (max-width: 430px) {
+   .ContentLeft{
+   	width:100%;
+   	height: auto;
+   }
+}

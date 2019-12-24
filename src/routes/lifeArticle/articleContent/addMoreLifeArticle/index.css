@@ -1,0 +1,29 @@
+.AddMoreContent{
+	width: 400px;
+	height: 500px;
+    background-color: white;
+    box-shadow: 4px 4px 10px #dcdcdc;
+    margin:30px auto;
+    font-family: "FangSong_GB2312";
+}
+@media screen and (max-width: 430px) {
+  .AddMoreContent{
+   width: 100%;
+}
+}
+.AddMoreContentTitle{
+	display: block;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px 0;
+}
+.DataContent{
+	padding: 20px 10px;
+}
+.ArticleContent{
+	padding: 20px 20px;
+}
+.Button{
+	display: block;
+	margin: 50px auto;
+} 

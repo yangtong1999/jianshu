@@ -1,0 +1,12 @@
+.photoWallTitle{
+	height: 40px;
+	display: flex;
+	padding: 0 8px;
+	justify-content: space-between;
+	font-family: "FangSong_GB2312";
+	line-height: 40px;
+    color: #686868;
+}
+.HeadTitleLink{
+	color: #6C6C6C;
+}

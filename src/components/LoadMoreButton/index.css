@@ -1,0 +1,11 @@
+.loadMoreButton{
+	width: 50%;
+	height: 33px;
+	border-radius: 50px;
+	background-color: #2E9AFE;
+	text-align: center;
+	font-size: 16px;
+	margin: 10px auto;
+	line-height: 33px;
+	color:white;
+}

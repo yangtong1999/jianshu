@@ -1,0 +1,25 @@
+.ContentWrapper{
+   margin: 8px 10px 0 70px;
+   height: 300px;
+   box-shadow: 2px 2px 10px #dcdcdc;
+   border-radius: 5px;
+}
+.photoWallContent{
+	display: flex;
+	flex-wrap: wrap;
+}
+.photoWall{
+	width: 50%;
+	height: 250px;
+	padding: 5px 10px;
+}
+@media screen and (max-width: 430px) {
+  .photoWall{
+  	width: 100%;
+  }
+  .ContentWrapper{
+  	height: auto;
+   margin: 8px 10px;
+   box-shadow: 2px 2px 2px 2px #dcdcdc;
+}
+}

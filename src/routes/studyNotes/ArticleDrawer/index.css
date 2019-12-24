@@ -1,0 +1,22 @@
+.ArticleTitle{
+	font-weight: normal;
+}
+.ArticleHr{
+	height:1px;
+	border:none;
+	border-top:1px dashed #dcdcdc;
+}
+.ArticleData{
+   font-size: 8px;
+   
+}
+.Content{
+font-family: "FangSong_GB2312";
+cursor: pointer;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.ArticleButton{
+   margin:10px 30px;
+}

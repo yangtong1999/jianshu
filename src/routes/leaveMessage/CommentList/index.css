@@ -1,0 +1,50 @@
+.CommentInput{
+	width: 600px;
+	margin:0 auto;
+}
+.Img{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.title{
+	display: block;
+	line-height: 30px;
+	font-size: 13px;
+}
+.ImgWrapper{
+	width: 120px;
+	display: flex;
+	justify-content: space-between;
+}
+.comments{
+	padding: 5px;
+	margin-left: 40px;
+	font-family: "FangSong_GB2312";
+	font-size: 15px;
+}
+.titleWrapper{
+	display: flex;
+	justify-content: space-between;
+}
+.childComment{
+	width: 75%;
+	margin:5px auto;
+	height: auto;
+	background-color: #F2F2F2;
+	line-height: 45px;
+}
+.childItem{
+	padding: 0 5px;
+	font-family: "FangSong_GB2312";
+	font-size: 13px;
+}
+.borderWrapper{
+  	padding: 5px 5px;
+	border-bottom: solid 1px #dcdcdc;
+}
+@media screen and (max-width: 430px) {
+ .CommentInput{
+   width: 100%;
+}
+}

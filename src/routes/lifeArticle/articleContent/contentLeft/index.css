@@ -1,0 +1,21 @@
+.ContentWrapper{
+   margin: 8px 70px 0 70px;
+   box-shadow: 4px 4px 10px #dcdcdc;
+   font-family: "FangSong_GB2312";
+   padding: 20px 20px;
+}
+
+@media screen and (max-width: 430px) {
+  .ContentWrapper{
+   margin: 8px 10px;
+   box-shadow: 2px 2px 2px 2px #dcdcdc;
+}
+}
+.TimeWrapper{
+	padding: 20px 10px;
+}
+.articleTitle{
+	display: block;
+	padding: 20px 20px;
+	font-size:120%;
+}

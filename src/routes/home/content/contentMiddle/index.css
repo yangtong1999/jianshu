@@ -1,0 +1,15 @@
+.ContentWrapper{
+   margin: 8px 10px 0 70px;
+   box-shadow: 4px 4px 10px #dcdcdc;
+   font-family: "FangSong_GB2312";
+   border-radius: 5px;
+}
+@media screen and (max-width: 430px) {
+  .ContentWrapper{
+   margin: 8px 10px;
+   box-shadow: 2px 2px 2px 2px #dcdcdc;
+}
+}
+.TimeWrapper{
+	padding: 20px 10px;
+}

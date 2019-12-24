@@ -1,0 +1,17 @@
+.Editor{
+  margin:20px 100px;
+}
+.commitNote{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 100px;
+}
+@media screen and (max-width: 430px) {
+ .Editor{
+  width: 100%;
+  margin:0;
+}
+.commitNote{
+  padding: 10px 0;
+}
+}
